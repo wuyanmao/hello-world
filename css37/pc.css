@@ -1,0 +1,114 @@
+body{
+	background: url(../images/ogMs_bg.jpg) no-repeat center fixed;
+}
+.kuang{
+	width: 190px;
+	margin-top:10px;
+	border-radius:25px;
+}
+input{
+	display: inline;
+	float: left;
+}
+.box3 {
+
+float: left;
+
+border: 5px solid hsla(100,0%,100%,.5);
+
+background-clip: padding-box;
+
+margin: 2em;
+}
+
+.navbar {
+  min-height: 20px;
+}
+.sidebarr{
+
+}
+.nav > li > a {
+  padding: 5px 40px;
+  color:white;
+}
+.navbar-brand {
+  padding: 8px 2px;
+}
+
+.sidebar>li{
+	color: pink;
+}
+.carousel-control{
+	left:-70px;
+	right: -70px;
+}
+.glyphicon-chevron-right{
+
+}
+.carousel-control{
+	top:135px;
+	bottom: 130px;
+
+}
+.carousel-control.right{
+	right: -43px;
+}
+.sidebar>li>a:hover{
+    background: #337ab7 ;
+}
+.themeq{
+	float: left;
+	margin-top:10px;
+	color: white;
+}
+.one{
+    text-align:justify;
+	padding: 0 10px;
+	width: 305px;
+	height: 350px;
+	margin-right: 2px;
+	float: left;
+	background:linear-gradient(#7b7b7b,black);
+	background:rgba(190,190,190,0.1);
+}
+
+.two{
+	width: 310px;
+	height: 350px;
+	float: left;
+	margin-right: 2px;
+	
+	background:linear-gradient(#7b7b7b,black);
+	background:rgba(190,190,190,0.1);
+}
+
+.three{
+	width: 305px;
+	float: left;;
+	height: 350px;
+	
+	background:linear-gradient(#7b7b7b,black);
+	background:rgba(190,190,190,0.1);
+}
+#anniu{
+	padding: 0 30px;
+	color: white;
+}
+img{
+	margin:2px 5px;
+}
+i{
+	color: #337ab7;
+}
+.ziti{
+	color: orange;
+}
+.rongqi{
+	height: 170px;
+	background-color: #e4891c;
+	background: linear-gradient(#ad6715, #e4891c ,#72440e);
+}
+dl{
+	float: left;
+	padding: 0 60px;
+}

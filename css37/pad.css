@@ -1,0 +1,41 @@
+.left,.middle,.right{
+	float: left;
+}
+@media screen and (min-width: 800px){
+.left{
+	background: #fdd;
+}
+.right{
+	background: red;
+}
+.middle{
+	background: pink;
+}
+}
+@media screen and (min-width: 700px) and (max-width: 800px){
+	.right{
+		display: none;;
+	}
+	.left{
+		width: 25%;
+	}
+	.middle{
+		width: 75%;
+	}
+}
+@media screen and (max-width: 700px){
+	.right{
+		display: none;
+	}
+}
+
+
+.left{
+	width: 20%;
+}
+.right{
+	width: 50%;
+}
+.middle{
+	width: 30%;
+}
